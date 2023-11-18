@@ -1,0 +1,22 @@
+h3{
+    font-size: 25px !important;
+    color: rgb(254, 252, 252) !important;
+    width: 80%;
+}
+canvas{
+    border: 4px black solid;
+}
+
+body{
+background-image: url('quick\ \(1\)\ \(1\)\ \(1\)\ \(1\).png');
+background-size: cover;
+}
+
+.btn-primary:hover{
+background-color:yellow;
+color: black;
+}
+
+
+
+
